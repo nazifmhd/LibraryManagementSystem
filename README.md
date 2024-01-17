@@ -2,6 +2,9 @@
 
 This is a simple Java console-based Library Management System. The system allows users to display available books, borrow and return books, add new books to the library, and exit the system.
 
+![5c1166de66736602723d9238_29](https://github.com/nazifmhd/LibraryManagementSystem/assets/139800203/1f9dad48-9526-450b-b043-a5597d34bf60)
+
+
 ## Features
 
 - Display available books by category (IT or Maths).
