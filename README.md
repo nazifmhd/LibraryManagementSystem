@@ -3,8 +3,7 @@
 This is a simple Java console-based Library Management System. The system allows users to display available books, borrow and return books, add new books to the library, and exit the system.
 
 <div align="center">
-    <img height="400px" src="https://github.com/nazifmhd/LibraryManagementSystem/assets/139800203/1f9dad48-9526-450b-b043-a5597d34bf60">
-</div>
+    <img height="400px" src="https://github.com/nazifmhd/LibraryManagementSystem/assets/139800203/cf7cf529-65ab-4e4f-95f9-6d3554709343">
 
 
 ## Features
