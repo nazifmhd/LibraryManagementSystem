@@ -4,7 +4,7 @@ This is a simple Java console-based Library Management System. The system allows
 
 <div align="center">
     <img height="400px" src="https://github.com/nazifmhd/LibraryManagementSystem/assets/139800203/cf7cf529-65ab-4e4f-95f9-6d3554709343">
-
+</div>
 
 ## Features
 
